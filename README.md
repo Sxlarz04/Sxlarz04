@@ -1,12 +1,10 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/68730434/124744718-b77be200-df27-11eb-921f-ba1e8fd77fc1.gif" alt="Sxl4rz" href='https://auto.creavite.co'/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/68730434/127640939-d3b574ce-45d9-4911-871c-bd4d63318250.gif" alt="Sxl4rz" href='https://auto.creavite.co'/></p>
 
 <h1 align="center"> About Me: </h1>
 
 <div align="center"> Male </div>
 <div align="center"> Bulgarian </div>
-<div align="center"> 17 years old </div>
-<div align="center"> Weeb </div>
 
 <h1 align="center"> Socials: </h1>
 
@@ -18,11 +16,8 @@
      <td><a href="https://steamcommunity.com/id/Sxlarz"><img alt="Steam" title="Steam" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/122563048-68d7d800-d04c-11eb-8513-ad1a5ed001ba.png" /></a>
             </td>
-     <td><a href="https://twitch.tv/isxlarz"><img alt="Twitch" title="Twitch" height="28px"
+     <td><a href="https://twitch.tv/cooltural"><img alt="Twitch" title="Twitch" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/122562367-aab44e80-d04b-11eb-8a8f-4b93d95beee9.png" /></a>
-            </td>
-     <td><a href="https://twitter.com/iSxlarz"><img alt="Twitter" title="Twitter" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/122561911-1649ec00-d04b-11eb-83fd-82a3537f53d9.png" /></a>
             </td>
    </tr>
   </tbody>
@@ -57,19 +52,19 @@
 
   <summary>GitHub Stats</summary>
   <br/>
-  <a href="https://github.com/Sxl4rz"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sxl4rz&show_icons=true&theme=tokyonight" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cooltural&show_icons=true&theme=tokyonight" /></a>
 </details>
 
  <details align='center'>
   <summary>Status Banner</summary>
   <br/>
-  <a href="https://github.com/iSxlarz"><img alt="Status Banner" src="https://discord.c99.nl/widget/theme-1/540520449852047391.png" /></a>
+  <a href="https://github.com/cooltural"><img alt="Status Banner" src="https://discord.c99.nl/widget/theme-1/540520449852047391.png" /></a>
 </details>
 
  <details align='center'>
   <summary>GitHub Visitors</summary>
  <br/>
-  <a href="https://github.com/Sxl4rz"><img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=Sxl4rz.iSxl4rz" /></a>
+  <a href="https://github.com/cooltural"><img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=cooltural.cooltural" /></a>
 </details>
  <!--<a href=""><img alt="" src="" /></a>-->
 <!---->
