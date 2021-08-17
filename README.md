@@ -5,7 +5,7 @@
 
 <div align="center"> Male </div>
 <div align="center"> Bulgarian </div>
-<div align="center"> Weeb </div>
+<div align="center"> 17 y/o </div>
 
 <h1 align="center"> Socials: </h1>
 
@@ -31,22 +31,11 @@
      <td><a href="https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot"><img alt="RAGE" title="RAGE" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/115650226-7e24d480-a331-11eb-89db-cadb4f28e0bf.png" /></a>
             </td>
-     <td><a href="https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/115650478-f2f80e80-a331-11eb-9340-6526c90752b4.png" /></a>
    </tr>
   </tbody>
   </table>
 
-<h1 align="center"> Website: </h1>
-<table align='center'>
- <tbody>
-   <tr>
-            </td>
-     <td><a href="https://zirobot.xyz"><img alt="Ziro-Bot" title="Ziro-Bot" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/115650478-f2f80e80-a331-11eb-9340-6526c90752b4.png" /></a>
-   </tr>
-  </tbody>
-  </table>
+
 <h1 align="center"> Stats: </h1>
 <details align='center'>
 
